@@ -21,3 +21,6 @@ The application supports English and Arabic (RTL layout) and follows Jetpack Com
 Using Git, clone the repository with the following command:
 ```sh
 git clone https://github.com/your-username/SimpleWeatherApp.git
+```
+![Screenshot_20250313-144647_Simple Weather App](https://github.com/user-attachments/assets/3c7de428-5306-4282-a068-44ffd1e56601)
+![Screenshot_٢٠٢٥٠٣١٣-١٤٤٩٤٠_Simple Weather App](https://github.com/user-attachments/assets/27c24d1c-9662-484b-a9ae-78c9ac7e3574)
