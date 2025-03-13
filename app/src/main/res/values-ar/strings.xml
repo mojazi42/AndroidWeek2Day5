@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الطقس البسيط</string>
+    <string name="weather_title">تطبيق الطقس</string>
+    <string name="today">اليوم</string>
+    <string name="monday">الجمعة</string>
+    <string name="tuesday">السبت</string>
+    <string name="wednesday">الاحد</string>
+    <string name="sunny">مشمس</string>
+    <string name="cloudy">غائم</string>
+    <string name="rainy">ممطر</string>
+</resources>

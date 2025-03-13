@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Weather App</string>
+    <string name="weather_title">Weather App</string>
+    <string name="today">Today</string>
+    <string name="monday">Firday</string>
+    <string name="tuesday">Saturday</string>
+    <string name="wednesday">Sunday</string>
+    <string name="sunny">Sunny</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="rainy">Rainy</string>
+</resources>
